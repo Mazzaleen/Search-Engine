@@ -1,0 +1,23 @@
+<xml>
+    <page>
+        <title>null</title>
+        <id>0</id>
+        <body>
+    [null]
+        </body>
+    </page>
+    <page>
+        <title>also null</title>
+        <id>1</id>
+        <body>
+
+        </body>
+    </page>
+    <page>
+        <title>also also null</title>
+        <id>2</id>
+        <body>
+
+        </body>
+    </page>
+</xml>

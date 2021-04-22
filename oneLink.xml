@@ -1,0 +1,25 @@
+<xml>
+    <page>
+        <title>page1</title>
+        <id>0</id>
+        <body>
+        [[Category: Macbook]]
+            [[page2]]
+        </body>
+    </page>
+    <page>
+        <title>page2</title>
+        <id>1</id>
+        <body>
+            [[page2]]
+            I love Computers so much
+        </body>
+    </page>
+    <page>
+        <title>page3</title>
+        <id>2</id>
+        <body>
+            I use macbook computers all day
+        </body>
+    </page>
+</xml>

@@ -1,0 +1,28 @@
+<xml>
+    <page>
+        <title>laptops</title>
+        <id>0</id>
+        <body>
+            [[Category: Macbook]]
+            [[Category: XPS]]
+            [[laptops2]]
+        </body>
+    </page>
+    <page>
+        <title>laptops2</title>
+        <id>1</id>
+        <body>
+            I love Computers so much
+            [[laptops3]]
+        </body>
+    </page>
+    <page>
+        <title>laptops3</title>
+        <id>2</id>
+        <body>
+            I use macbook computers all day
+            [[Category: Samsung]]
+            [[laptops]]
+        </body>
+    </page>
+</xml>
